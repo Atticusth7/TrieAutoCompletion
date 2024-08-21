@@ -9,4 +9,5 @@ Using a Trie data structure to store and access an extensive dictionary, this C+
 ![image](https://github.com/user-attachments/assets/f7d356da-15f3-4daf-8f07-627c125c24f5)
 
 **Multiple words seperated by whitespace**
+
 ![image](https://github.com/user-attachments/assets/766e3b21-119c-4f8c-b948-54760c93523d)
